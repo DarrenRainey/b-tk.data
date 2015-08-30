@@ -1,1 +1,1 @@
-b-tk.data
+This is an open-source Biomechanical ToolKit named BTK
